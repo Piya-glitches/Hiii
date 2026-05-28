@@ -12,11 +12,8 @@ The next file after this will be a simple dumbass calculator program like they t
 because why tf not. Thank you for reading till here and I hope you enjoy seeing how the code is written to do 2+2.!!
 
 Yours menacingly,
-Piyu~
+Piya~
 
 P.S.- tried to implement whatever was taught in sem 1 into the calculator and thought why not try out dynamic 
 memory allocation since I never did any programs using that, so here we are. Will add history viewing function later 
 because I fell asleep and fked up the schedule a bit :)
-
-P.S.- shoutout to first viewer, Janmejaya, for putting up with me just to see this mediocre ass stuff. I, in fact, wasn't
-cooking anything but this shit lol. And sorry for the delay I created to send this shit because of me falling asleep. Thenku :)
